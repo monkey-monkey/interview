@@ -29,6 +29,9 @@ npm install --global yarn
    yarn
    ```
 3. Run typescript/test files
+   ```sh
+   yarn test:<test-name>
+   ```
 
 ## License
 
