@@ -1,0 +1,10 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Chutipon Hirankanokkul <chutiponh@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
